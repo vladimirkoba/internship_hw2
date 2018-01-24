@@ -18,6 +18,6 @@ public class Secret {
     }
 
     private String branch2Secret(String branch2) {
-        return "none";
+        return branch2;
     }
 }
