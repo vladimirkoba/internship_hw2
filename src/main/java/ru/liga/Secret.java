@@ -14,10 +14,10 @@ public class Secret {
     }
 
     private String branch1Secret(String branch1) {
-        return branch1;
+        return "none";
     }
 
     private String branch2Secret(String branch2) {
-        return branch2;
+        return "none";
     }
 }
